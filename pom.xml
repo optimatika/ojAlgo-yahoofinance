@@ -52,4 +52,5 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    <url>https://github.com/optimatika/ojAlgo-yahoofinance</url>
 </project>
